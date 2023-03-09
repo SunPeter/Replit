@@ -9,7 +9,7 @@ export default function App() {
   return (
     <main>
       <MyDiv />
-      React ⚛️ + Vite ⚡ + Replit 🌀 xxxx111144422223333
+      React ⚛️ + Vite ⚡ + Replit 🌀 hhhhhhhhh
     </main>
   )
 }
